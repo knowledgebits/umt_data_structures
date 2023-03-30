@@ -14,5 +14,5 @@ Not there yet? No problem, follow a step-by-step approach by reviewing the follo
 - [Week 2: Pointers](https://github.com/evis-umt/umt_data_structures/tree/main/week2_pointers) Pointing the Way to Efficient Code: Mastering Pointers
 - [Week 3: Arrays](https://github.com/evis-umt/umt_data_structures/tree/main/week3_arrays) Unlocking the Power of Arrays
 - [Week 4: Lists](https://github.com/evis-umt/umt_data_structures/tree/main/week4_lists) Breaking Free from Fixed Data Structures: Discovering the Power of Dynamic Linked Lists
-- [Week 5: Lists (Advanced)](https://github.com/evis-umt/umt_data_structures/tree/main/week4_lists) Exploring Linked Lists: Pushing the Limits of Data Structures in Java
+- [Week 5: Lists (Advanced)](https://github.com/evis-umt/umt_data_structures/tree/main/week5_lists_advanced) Exploring Linked Lists: Pushing the Limits of Data Structures in Java
 
