@@ -19,4 +19,5 @@ Not there yet? No problem, follow a step-by-step approach by reviewing the follo
 - [Week 7: Stack up](https://github.com/evis-umt/umt_data_structures/tree/main/week7_stacking_up) Data Fusion: Combining Data Structures for Optimal Performance
 - [Week 8: Queues](https://github.com/evis-umt/umt_data_structures/tree/main/week8_queues) Optimized Queue Management for Customer Service
 - [Week 9: QueueUp](https://github.com/evis-umt/umt_data_structures/tree/main/week9_queues) Task Queues Made Easy
+- [Week 10: Level up your game](https://github.com/evis-umt/umt_data_structures/tree/main/week10_gameplay) Game-Playing by using Data Structures
 
