@@ -39,3 +39,4 @@ Not there yet? No problem, follow a step-by-step approach by reviewing the follo
 
 - [Week 10: Level up your game](https://github.com/evis-umt/umt_data_structures/tree/main/week10_gameplay) Game-Playing by using Data Structures
 
+- [Week 11: Hash Maps](https://github.com/evis-umt/umt_data_structures/tree/main/week11_hashmaps) Map Mystery: Discover the Secrets of HashMaps in Java
